@@ -1,2 +1,2 @@
 # theme-machine
-Issue tracking for Theme Machine
+Issue tracking for [Theme Machine](https://tools.keithjgrant.com/theme-machine/)
